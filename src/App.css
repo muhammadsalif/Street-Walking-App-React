@@ -13,7 +13,7 @@
 .man {
   position: absolute;
   z-index: 1;
-  top: 190px;
+  top: 150px;
   left: -290px;
   height: 370px;
   /* border: 8px solid red; */
@@ -21,27 +21,27 @@
 
 .man2 {
   position: absolute;
-  top: 130px;
+  top: 90px;
   right: -290px;
   height: 370px;
 }
 
 .man3 {
   position: absolute;
-  top: 190px;
+  top: 150px;
   left: -550px;
   height: 370px;
 }
 .cycle {
   position: absolute;
-  top: 350px;
+  top: 310px;
   z-index: 1;
   left: -300px;
   height: 300px;
 }
 .cycle2 {
   position: absolute;
-  top: 420px;
+  top: 380px;
   right: -500px;
   z-index: 1;
   height: 300px;
